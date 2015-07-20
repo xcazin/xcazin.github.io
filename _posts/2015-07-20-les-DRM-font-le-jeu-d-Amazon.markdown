@@ -41,4 +41,9 @@ Les DRM entérinent le fait que la chaîne du livre ne sert qu'au papier
 ======================================================================
 Pour les éditeurs qui adoptent les [DRM][drm-post], les libraires ne servent qu'à vendre du papier
 
+Les grands groupes se posent des questions
+==========================================
+Il semblerait que MacMillan soit le premier des grands groupes à prendre le problème au sérieux. Ou plutôt, [sa maison mère][macmillan-nodrm].
+
 [drm-post]:      {% post_url 2015-07-20-category-DRM %}
+[macmillan-nodrm]: http://the-digital-reader.com/2015/07/20/macmillan-parent-company-holtzbrinck-abandons-drm-in-germany/
