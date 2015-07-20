@@ -43,7 +43,9 @@ Pour les éditeurs qui adoptent les [DRM][drm-post], les libraires ne servent qu
 
 Les grands groupes se posent des questions
 ==========================================
-Il semblerait que MacMillan soit le premier des grands groupes à prendre le problème au sérieux. Ou plutôt, [sa maison mère][macmillan-nodrm].
+Il semblerait que MacMillan soit le premier des grands groupes à prendre le problème au sérieux. Ou plutôt, [sa maison mère][macmillan-nodrm] :
+
+> I have no info as of yet on Macmillan going DRM-free, but the most likely cause for delay (besides corporate inertia) would be making sure that the **distributors offer digital watermarks as a DRM option**.
 
 [drm-post]:      {% post_url 2015-07-20-category-DRM %}
 [macmillan-nodrm]: http://the-digital-reader.com/2015/07/20/macmillan-parent-company-holtzbrinck-abandons-drm-in-germany/
