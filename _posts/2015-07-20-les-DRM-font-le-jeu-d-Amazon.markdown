@@ -16,14 +16,13 @@ déduire que 1,5% des acheteurs de livres possèdent un Kindle, et donc que leur
 ne pourront pas leur vendre les titres DRMisés qu'ils comptaient
 lire sur leur Kindle.
 
-Trois réflexes :
+Trois réflexes pour le futur ex-client :
 
 1. Faire sauter le verrou (alors à quoi bon ?)
 1. Se procurer une copie pirate (on a tout gagné)
 1. Ouvrir un compte sur Amazon (en se promettant d'y rester la prochaine fois, même pour les livres sans DRM).
 
-Heureusement qu'il reste les beaux livres et la bande dessinée pour que ces clients reviennent de temps en temps chez leur libraires !
-
+Heureusement qu'il reste les beaux livres et la bande dessinée pour que ces clients reviennent de temps en temps chez leur libraires ! Ah ben non, où ai-je la tête, maintenant que j'ai un compte chez Amazon, je l'achèterai là aussi le dernier Boulet : j'en profiterai pour acheter une nouvelle serviette de bain.
 
 Les DRM coûtent cher à la chaîne du livre
 =========================================
