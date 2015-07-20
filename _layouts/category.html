@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="category">
+
+  <header class="category-header">
+    <h1 class="category-title">{{ page.title }}</h1>
+    <p class="category-meta">{{ page.date | dernière modification: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="category-content">
+    {{ content }}
+  </article>
+
+</div>
