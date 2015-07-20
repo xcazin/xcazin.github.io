@@ -20,10 +20,10 @@ déduire que 1,5% des acheteurs de livres possèdent un Kindle, et donc que leur
 ne pourront pas leur vendre les titres DRMisés qu'ils comptaient
 lire sur leur Kindle.
 
-Trois réflexes pour le futur ex-client :
+Trois réflexes possibles pour le futur ex-client :
 
-1. Faire sauter le verrou (alors à quoi bon ?)
-1. Se procurer une copie pirate (on a tout gagné)
+1. Faire sauter le verrou après achat (dans ce cas, à quoi bon l'avoir placé ?)
+1. Se procurer une copie pirate (la chaîne du livre aurait tout perdu)
 1. Ouvrir un compte sur Amazon (en se promettant d'y rester la prochaine fois, même pour les livres sans [DRM][drm-post]).
 
 Heureusement qu'il reste les beaux livres et la bande dessinée pour que ces
